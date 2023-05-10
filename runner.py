@@ -1,6 +1,6 @@
-from ip_api import run as api_run
-from ip_collection import run as collection_run
-from ip_verify import run as verify_run
+from src.ip_api import run as api_run
+from src.ip_collection import run as collection_run
+from src.ip_verify import run as verify_run
 from multiprocessing import Process
 
 

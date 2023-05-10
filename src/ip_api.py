@@ -1,4 +1,4 @@
-from proxy_redis import ProxyRedis
+from src.proxy_redis import ProxyRedis
 
 from sanic import Sanic, json
 from sanic_cors import CORS

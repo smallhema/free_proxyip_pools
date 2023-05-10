@@ -1,6 +1,6 @@
 import time
 
-from proxy_redis import ProxyRedis
+from src.proxy_redis import ProxyRedis
 import requests
 from lxml import etree
 
